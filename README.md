@@ -27,3 +27,7 @@ Author:
 - Authors have all the same functions as users but with the added benefit of being able to post stories to the website
 - Authors do not have the option to pay for a membership since it is free for them
 - Author accounts have a special marker to show that they are an author
+
+<h2>Architecture</h2>
+
+The next step in the software development cycle is designing an architecture for the system based on these requirements. This will be accomplished with a UML diagram of the system as a whole.
