@@ -9,7 +9,7 @@ Users:
     - These stories can be sorted by title, author, and     user rating (1-5 stars)
 - Users can comment on each chapter of a comic book as it comes out
 - Users can rate stories on a 5-star scale
-- Users can create posts about their favorite storeis on message boards
+- Users can create posts about their favorite stories on message boards
     - Users can also comment on the posts of others
     - The components of a post will be author, subject, content, date/time
 - Users can see their profile, including what comic books they follow, what users they are following, as well as the posts they have made on the message board
