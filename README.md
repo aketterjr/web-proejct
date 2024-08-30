@@ -7,7 +7,8 @@ There will be 3 different types of accounts: User, Author, and Staff
 Users:
 - Users will be able to browse a list of comic books
     - These stories can be sorted by title, author, and     user rating (1-5 stars)
-    - Users can comment on each chapter of a comic book as it comes out
+- Users can comment on each chapter of a comic book as it comes out
+- Users can rate stories on a 5-star scale
 - Users can create posts about their favorite storeis on message boards
     - Users can also comment on the posts of others
     - The components of a post will be author, subject, content, date/time
