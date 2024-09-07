@@ -32,4 +32,4 @@ Author:
 
 The next step in the software development cycle is designing an architecture for the system based on these requirements. This will be accomplished with a UML diagram of the system as a whole.
 
-![uml-diagram](IMG_3264.JPG)
+![uml-diagram](/img/IMG_3264.JPG)
