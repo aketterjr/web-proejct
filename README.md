@@ -33,3 +33,11 @@ Author:
 The next step in the software development cycle is designing an architecture for the system based on these requirements. This will be accomplished with a UML diagram of the system as a whole.
 
 ![uml-diagram](/img/IMG_3264.JPG)
+
+The above UML Diagram shows the key functionality and relationships that I could identify in the planning stage. This is document may change as I implement things but this should serve as a good roadmap to guide my progress. The next step is implementation.
+
+<h2>Implementation</h2>
+
+I will be using Django for the backend and React for the frontend. The first step is to get basic features such as users being able to sign in up and running. This will be accomplished using JSON Web Tokens (JWT) to authenticate their credentials on the backend.
+
+Next will be establishing the different kinds of users of the website as well as their various privilleges.
